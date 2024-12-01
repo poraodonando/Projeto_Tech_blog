@@ -1,0 +1,12 @@
+.cabecalho{
+    height: 100px;
+    background-color: orange;
+    text-align: center;
+    margin: 0px;
+}
+.cabecalho>h1{
+    margin: 0px;
+}
+.postagem{
+    
+}
